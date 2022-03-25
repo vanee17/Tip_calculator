@@ -13,8 +13,8 @@ Los usuarios deben ser capaces de:
 
 ### Enlaces
 
-- URL de la solución: https://github.com/vanee17/Sign_up_form
-- URL del sitio en vivo: https://vanee17.github.io/Sign_up_form/
+- URL de la solución: https://github.com/vanee17/Tip_calculator
+- URL del sitio en vivo: https://vanee17.github.io/Tip_calculator/
 
 ### Mi proceso
 
